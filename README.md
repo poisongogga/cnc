@@ -1,0 +1,2 @@
+# cnc
+making cnc  device
